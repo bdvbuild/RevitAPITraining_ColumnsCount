@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_ColumnsCount.dll"</Assembly>
+		<AddInId>0D5E77EA-86CF-458E-9A46-F26B0BCF4458</AddInId>
+		<FullClassName>RevitAPITraining_ColumnsCount.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>Количество колонн в проекте</Text>
+	</AddIn>
+</RevitAddIns>
